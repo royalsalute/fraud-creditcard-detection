@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+creditcard.csv
+.idea/
+.ipynb_checkpoints/
+data/
+snapshots/
